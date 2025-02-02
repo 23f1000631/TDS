@@ -3,7 +3,7 @@ name: Actions
 on: push
 
 jobs:
-  actions:
+  print-message:
   runs-on: ubuntu-latest
   test:
     steps:
