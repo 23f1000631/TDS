@@ -1,0 +1,9 @@
+name: Actions
+
+on: push
+
+jobs:
+  test:
+    steps:
+      - name: 23f1000631@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
