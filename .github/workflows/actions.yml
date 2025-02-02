@@ -3,6 +3,8 @@ name: Actions
 on: push
 
 jobs:
+  actions
+  runs on: ubuntu-latest
   test:
     steps:
       - name: 23f1000631@ds.study.iitm.ac.in
